@@ -59,7 +59,37 @@
       "russian": "Инновируй мудро, процветай сейчас.",
       "category": "Purpose",
       "generated_at": "2026-06-05T17:15:09.741807"
+    },
+    {
+      "english": "Speak now, connect fast",
+      "russian": "Говорите сейчас, соединяйтесь быстро",
+      "category": "Confidence",
+      "generated_at": "2026-06-05T20:45:32.033701"
+    },
+    {
+      "english": "Act today, achieve more",
+      "russian": "Действуйте сегодня, достигайте большего",
+      "category": "Confidence",
+      "generated_at": "2026-06-05T20:45:32.033708"
+    },
+    {
+      "english": "Try it, you'll thrive",
+      "russian": "Спробуйте, вы расцветете",
+      "category": "Confidence",
+      "generated_at": "2026-06-05T20:45:32.033710"
+    },
+    {
+      "english": "Lead forward, inspire fully",
+      "russian": "Идите вперед, вдохновляйте полностью",
+      "category": "Confidence",
+      "generated_at": "2026-06-05T20:45:32.033711"
+    },
+    {
+      "english": "Win this, right now",
+      "russian": "Победите это, прямо сейчас",
+      "category": "Confidence",
+      "generated_at": "2026-06-05T20:45:32.033712"
     }
   ],
-  "last_updated": "2026-06-05T17:15:09.741808"
+  "last_updated": "2026-06-05T20:45:32.033714"
 }
