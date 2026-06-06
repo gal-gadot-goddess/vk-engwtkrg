@@ -89,7 +89,37 @@
       "russian": "Победите это, прямо сейчас",
       "category": "Confidence",
       "generated_at": "2026-06-05T20:45:32.033712"
+    },
+    {
+      "english": "Today's small win, matters.",
+      "russian": "Сегодняшняя маленькая победа, имеет значение.",
+      "category": "Balance",
+      "generated_at": "2026-06-06T09:26:25.126245"
+    },
+    {
+      "english": "One more sentence, success.",
+      "russian": "Ещё одно предложение, успех.",
+      "category": "Balance",
+      "generated_at": "2026-06-06T09:26:25.126255"
+    },
+    {
+      "english": "Progress, not perfection.",
+      "russian": "Прогресс, а не совершенство.",
+      "category": "Balance",
+      "generated_at": "2026-06-06T09:26:25.126257"
+    },
+    {
+      "english": "Daily step forward, truly.",
+      "russian": "Ежедневный шаг вперёд, действительно.",
+      "category": "Balance",
+      "generated_at": "2026-06-06T09:26:25.126258"
+    },
+    {
+      "english": "New word learned, great!",
+      "russian": "Новое слово выучено, отлично!",
+      "category": "Balance",
+      "generated_at": "2026-06-06T09:26:25.126259"
     }
   ],
-  "last_updated": "2026-06-05T20:45:32.033714"
+  "last_updated": "2026-06-06T09:26:25.126261"
 }
