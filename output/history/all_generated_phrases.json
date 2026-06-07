@@ -239,7 +239,37 @@
       "russian": "Крошечное семя растёт, смело.",
       "category": "Joy",
       "generated_at": "2026-06-07T10:05:56.881644"
+    },
+    {
+      "english": "New words, open doors.",
+      "russian": "Новые слова, открывают двери.",
+      "category": "Motivation",
+      "generated_at": "2026-06-07T12:16:16.241201"
+    },
+    {
+      "english": "Listen close, understand better.",
+      "russian": "Слушай внимательно, поймешь лучше.",
+      "category": "Motivation",
+      "generated_at": "2026-06-07T12:16:16.241212"
+    },
+    {
+      "english": "Every sentence, a small lesson.",
+      "russian": "Каждое предложение - урок.",
+      "category": "Motivation",
+      "generated_at": "2026-06-07T12:16:16.241214"
+    },
+    {
+      "english": "Speak it out loud.",
+      "russian": "Произнеси это вслух.",
+      "category": "Motivation",
+      "generated_at": "2026-06-07T12:16:16.241215"
+    },
+    {
+      "english": "Make mistakes, feel freedom.",
+      "russian": "Делай ошибки, чувствуй свободу.",
+      "category": "Motivation",
+      "generated_at": "2026-06-07T12:16:16.241216"
     }
   ],
-  "last_updated": "2026-06-07T10:05:56.881645"
+  "last_updated": "2026-06-07T12:16:16.241218"
 }
