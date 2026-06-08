@@ -419,7 +419,37 @@
       "russian": "Ещё одна попытка, сияет.",
       "category": "Inspiration",
       "generated_at": "2026-06-08T17:53:03.443001"
+    },
+    {
+      "english": "Slight chance, opens paths.",
+      "russian": "Небольшой шанс, открывает пути.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:10:19.332552"
+    },
+    {
+      "english": "Your words, build worlds.",
+      "russian": "Твои слова, строят миры.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:10:19.332561"
+    },
+    {
+      "english": "Blink and smile.",
+      "russian": "Подмигни и улыбнись.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:10:19.332563"
+    },
+    {
+      "english": "Listen, feel, grow.",
+      "russian": "Слушай, чувствуй, расти.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:10:19.332564"
+    },
+    {
+      "english": "Soft steps, find place.",
+      "russian": "Тихие шаги, находят место.",
+      "category": "Success",
+      "generated_at": "2026-06-08T21:10:19.332565"
     }
   ],
-  "last_updated": "2026-06-08T17:53:03.443003"
+  "last_updated": "2026-06-08T21:10:19.332567"
 }
