@@ -359,7 +359,37 @@
       "russian": "Будь тих, как вода.",
       "category": "Purpose",
       "generated_at": "2026-06-08T11:58:49.596825"
+    },
+    {
+      "english": "Leap; then look down.",
+      "russian": "Прыгни; потом смотри вниз.",
+      "category": "Success",
+      "generated_at": "2026-06-08T14:43:10.539470"
+    },
+    {
+      "english": "Embrace confusion, find clarity.",
+      "russian": "Прими путаницу, найди ясность.",
+      "category": "Success",
+      "generated_at": "2026-06-08T14:43:10.539479"
+    },
+    {
+      "english": "Dare to be wrong.",
+      "russian": "Осмелься ошибаться.",
+      "category": "Success",
+      "generated_at": "2026-06-08T14:43:10.539480"
+    },
+    {
+      "english": "Create your opening, don't wait.",
+      "russian": "Создай свой шанс, не жди.",
+      "category": "Success",
+      "generated_at": "2026-06-08T14:43:10.539482"
+    },
+    {
+      "english": "Question everything, begin anew.",
+      "russian": "Сомневайся во всём, начинай заново.",
+      "category": "Success",
+      "generated_at": "2026-06-08T14:43:10.539483"
     }
   ],
-  "last_updated": "2026-06-08T11:58:49.596827"
+  "last_updated": "2026-06-08T14:43:10.539485"
 }
