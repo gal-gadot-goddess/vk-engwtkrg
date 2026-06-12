@@ -839,7 +839,37 @@
       "russian": "Слушайте упорнее, получайте больше.",
       "category": "Mindfulness",
       "generated_at": "2026-06-12T11:01:48.732413"
+    },
+    {
+      "english": "Flow, conquer chaos.",
+      "russian": "Теки, покоряй хаос.",
+      "category": "Patience",
+      "generated_at": "2026-06-12T13:58:28.167657"
+    },
+    {
+      "english": "Grow slow, feel more.",
+      "russian": "Расти медленно, чувствуй больше.",
+      "category": "Patience",
+      "generated_at": "2026-06-12T13:58:28.167665"
+    },
+    {
+      "english": "Wait for sunrise.",
+      "russian": "Дождись восхода.",
+      "category": "Patience",
+      "generated_at": "2026-06-12T13:58:28.167667"
+    },
+    {
+      "english": "Pause, then act.",
+      "russian": "Пауза, затем действуй.",
+      "category": "Patience",
+      "generated_at": "2026-06-12T13:58:28.167668"
+    },
+    {
+      "english": "Calm breath, clear path.",
+      "russian": "Спокойный вдох, чистый путь.",
+      "category": "Patience",
+      "generated_at": "2026-06-12T13:58:28.167669"
     }
   ],
-  "last_updated": "2026-06-12T11:01:48.732415"
+  "last_updated": "2026-06-12T13:58:28.167671"
 }
