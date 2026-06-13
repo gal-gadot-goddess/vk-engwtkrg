@@ -1019,7 +1019,37 @@
       "russian": "Перебори то, чего боишься.",
       "category": "Perseverance",
       "generated_at": "2026-06-13T16:13:47.150400"
+    },
+    {
+      "english": "Begin now, learn more.",
+      "russian": "Начни сейчас, узнавай больше.",
+      "category": "Patience",
+      "generated_at": "2026-06-13T20:10:15.262196"
+    },
+    {
+      "english": "Focus small, achieve large.",
+      "russian": "Концентрируйся на малом, достигай большего.",
+      "category": "Patience",
+      "generated_at": "2026-06-13T20:10:15.262208"
+    },
+    {
+      "english": "Act today, grow tomorrow.",
+      "russian": "Действуй сегодня, расти завтра.",
+      "category": "Patience",
+      "generated_at": "2026-06-13T20:10:15.262210"
+    },
+    {
+      "english": "Work smart, earn rewards.",
+      "russian": "Работай умно, получай награды.",
+      "category": "Patience",
+      "generated_at": "2026-06-13T20:10:15.262211"
+    },
+    {
+      "english": "Try once, refine always.",
+      "russian": "Попробуй один раз, совершенствуй всегда.",
+      "category": "Patience",
+      "generated_at": "2026-06-13T20:10:15.262212"
     }
   ],
-  "last_updated": "2026-06-13T16:13:47.150402"
+  "last_updated": "2026-06-13T20:10:15.262215"
 }
