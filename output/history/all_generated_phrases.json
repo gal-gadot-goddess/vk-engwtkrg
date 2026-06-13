@@ -929,7 +929,37 @@
       "russian": "Слушай внимательно, говори немного.",
       "category": "Success",
       "generated_at": "2026-06-12T20:59:01.916425"
+    },
+    {
+      "english": "Bloom like desert rose.",
+      "russian": "Цвети, как роза пустыни.",
+      "category": "Confidence",
+      "generated_at": "2026-06-13T09:56:43.757259"
+    },
+    {
+      "english": "Find your inner sun.",
+      "russian": "Найди свое внутреннее солнце.",
+      "category": "Confidence",
+      "generated_at": "2026-06-13T09:56:43.757270"
+    },
+    {
+      "english": "Grow true, reaching high.",
+      "russian": "Расти истинно, тянись высоко.",
+      "category": "Confidence",
+      "generated_at": "2026-06-13T09:56:43.757271"
+    },
+    {
+      "english": "Unfurl your strong roots.",
+      "russian": "Распусти свои сильные корни.",
+      "category": "Confidence",
+      "generated_at": "2026-06-13T09:56:43.757273"
+    },
+    {
+      "english": "Shine, steady as stars.",
+      "russian": "Сияй, ровно как звезды.",
+      "category": "Confidence",
+      "generated_at": "2026-06-13T09:56:43.757274"
     }
   ],
-  "last_updated": "2026-06-12T20:59:01.916427"
+  "last_updated": "2026-06-13T09:56:43.757275"
 }
