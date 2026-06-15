@@ -1259,7 +1259,37 @@
       "russian": "Медленное горение, долгий огонь.",
       "category": "Balance",
       "generated_at": "2026-06-15T19:04:12.098275"
+    },
+    {
+      "english": "Face the void, build anew.",
+      "russian": "Встречай пустоту, строй заново.",
+      "category": "Courage",
+      "generated_at": "2026-06-15T21:38:16.572571"
+    },
+    {
+      "english": "Speak truth, not comfort.",
+      "russian": "Говори правду, не утешение.",
+      "category": "Courage",
+      "generated_at": "2026-06-15T21:38:16.572581"
+    },
+    {
+      "english": "Embrace disruption, adapt fast.",
+      "russian": "Прими сбои, адаптируйся быстро.",
+      "category": "Courage",
+      "generated_at": "2026-06-15T21:38:16.572582"
+    },
+    {
+      "english": "Risk doubt, find vigor.",
+      "russian": "Рискни сомнением, найди силу.",
+      "category": "Courage",
+      "generated_at": "2026-06-15T21:38:16.572583"
+    },
+    {
+      "english": "Serve unmet needs, lead.",
+      "russian": "Ослужи неудовлетворённые нужды, веди.",
+      "category": "Courage",
+      "generated_at": "2026-06-15T21:38:16.572584"
     }
   ],
-  "last_updated": "2026-06-15T19:04:12.098277"
+  "last_updated": "2026-06-15T21:38:16.572586"
 }
