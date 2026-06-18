@@ -1529,7 +1529,37 @@
       "russian": "Произнеси предложение, вслух.",
       "category": "Purpose",
       "generated_at": "2026-06-18T13:56:37.396750"
+    },
+    {
+      "english": "Speak simple, understand deep.",
+      "russian": "Говори просто, понимай глубоко.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T17:59:20.695321"
+    },
+    {
+      "english": "Listen first, then try.",
+      "russian": "Сначала слушай, потом пробуй.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T17:59:20.695332"
+    },
+    {
+      "english": "Every mistake, a lesson.",
+      "russian": "Каждая ошибка, урок.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T17:59:20.695337"
+    },
+    {
+      "english": "Practice daily, find growth.",
+      "russian": "Практикуйся ежедневно, найди рост.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T17:59:20.695338"
+    },
+    {
+      "english": "Small talks, boost skills.",
+      "russian": "Маленькие разговоры, улучшают навыки.",
+      "category": "Motivation",
+      "generated_at": "2026-06-18T17:59:20.695339"
     }
   ],
-  "last_updated": "2026-06-18T13:56:37.396752"
+  "last_updated": "2026-06-18T17:59:20.695341"
 }
