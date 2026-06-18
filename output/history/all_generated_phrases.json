@@ -1499,7 +1499,37 @@
       "russian": "Попробуйте новое слово, пусть оно станет вашим.",
       "category": "Success",
       "generated_at": "2026-06-18T11:09:04.816589"
+    },
+    {
+      "english": "Each word, counts today.",
+      "russian": "Каждое слово, важно сегодня.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T13:56:37.396733"
+    },
+    {
+      "english": "Understand more, each time.",
+      "russian": "Понимай больше, каждый раз.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T13:56:37.396745"
+    },
+    {
+      "english": "This sound, I’ve learned.",
+      "russian": "Этот звук, я выучил.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T13:56:37.396747"
+    },
+    {
+      "english": "New grammar, takes root.",
+      "russian": "Новая грамматика, укореняется.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T13:56:37.396748"
+    },
+    {
+      "english": "Speak a sentence, aloud.",
+      "russian": "Произнеси предложение, вслух.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T13:56:37.396750"
     }
   ],
-  "last_updated": "2026-06-18T11:09:04.816590"
+  "last_updated": "2026-06-18T13:56:37.396752"
 }
