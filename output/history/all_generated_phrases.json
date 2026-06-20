@@ -1709,7 +1709,37 @@
       "russian": "Твои старания, пологий подъём.",
       "category": "Forgiveness",
       "generated_at": "2026-06-19T20:23:34.774321"
+    },
+    {
+      "english": "Small talk, first phrase won.",
+      "russian": "Первая фраза, простой разговор.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T10:09:32.628054"
+    },
+    {
+      "english": "Comprehend a bit, celebrate.",
+      "russian": "Понял немного, поздра… нет.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T10:09:32.628062"
+    },
+    {
+      "english": "New sound echoes here.",
+      "russian": "Новый звук, здесь ото… сам.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T10:09:32.628064"
+    },
+    {
+      "english": "One sentence. Yes! Repeat.",
+      "russian": "Одно предложение. Да! Повтори.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T10:09:32.628065"
+    },
+    {
+      "english": "Pronounce correctly, amazing.",
+      "russian": "Произнёс верно, восхи… ительно.",
+      "category": "Patience",
+      "generated_at": "2026-06-20T10:09:32.628066"
     }
   ],
-  "last_updated": "2026-06-19T20:23:34.774323"
+  "last_updated": "2026-06-20T10:09:32.628068"
 }
