@@ -1919,7 +1919,37 @@
       "russian": "Любопытство вспыхивает, обучение расцветает.",
       "category": "Growth",
       "generated_at": "2026-06-21T16:45:36.737702"
+    },
+    {
+      "english": "Keep brewing ideas, wait for flavor.",
+      "russian": "Продолжай варить идеи, дождься вкуса.",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:22.097379"
+    },
+    {
+      "english": "This screen glows, listen softly.",
+      "russian": "Этот экран светится, слушай вполуголоса.",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:22.097390"
+    },
+    {
+      "english": "Build code loop, observe patterns.",
+      "russian": "Строй кодовый цикл, наблюдай за паттернами.",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:22.097392"
+    },
+    {
+      "english": "Typing slower, mind computes.",
+      "russian": "Печатаешь медленнее, разум вычисляет.",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:22.097393"
+    },
+    {
+      "english": "Hold that thought, unfurl naturally.",
+      "russian": "Держи эту мысль, она раскроется естественно.",
+      "category": "Patience",
+      "generated_at": "2026-06-21T20:20:22.097394"
     }
   ],
-  "last_updated": "2026-06-21T16:45:36.737703"
+  "last_updated": "2026-06-21T20:20:22.097395"
 }
