@@ -1829,7 +1829,37 @@
       "russian": "Говори тихо, слушай мудрость.",
       "category": "Hope",
       "generated_at": "2026-06-20T20:10:08.009462"
+    },
+    {
+      "english": "Speak clearly, mean it.",
+      "russian": "Говорите ясно, вкладывайте душу.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-21T10:29:47.562130"
+    },
+    {
+      "english": "Understand context, build.",
+      "russian": "Поймите контекст, стройте.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-21T10:29:47.562140"
+    },
+    {
+      "english": "Breathe deeply, think now.",
+      "russian": "Дышите глубже, думайте сейчас.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-21T10:29:47.562142"
+    },
+    {
+      "english": "Your sentence flows, right?",
+      "russian": "Твое предложение идет гладко, верно?",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-21T10:29:47.562143"
+    },
+    {
+      "english": "Listen, learn more.",
+      "russian": "Слушайте, узнаете больше.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-21T10:29:47.562145"
     }
   ],
-  "last_updated": "2026-06-20T20:10:08.009464"
+  "last_updated": "2026-06-21T10:29:47.562146"
 }
