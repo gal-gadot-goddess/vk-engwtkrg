@@ -2249,7 +2249,37 @@
       "russian": "Слушай внимательно, говори смело.",
       "category": "Purpose",
       "generated_at": "2026-06-24T20:25:47.025412"
+    },
+    {
+      "english": "Breathe deep, find zen.",
+      "russian": "Дыши глубоко, найди дзен.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T10:15:41.994710"
+    },
+    {
+      "english": "Just pause, it's okay.",
+      "russian": "Просто остановись, всё хорошо.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T10:15:41.994717"
+    },
+    {
+      "english": "Quiet mind, clear thoughts.",
+      "russian": "Тихий ум, ясные мысли.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T10:15:41.994719"
+    },
+    {
+      "english": "Let go, feel peace.",
+      "russian": "Отпусти, почувствуй покой.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T10:15:41.994720"
+    },
+    {
+      "english": "Flow with now, serene.",
+      "russian": "Теки с настоящим, безмятежный.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-25T10:15:41.994721"
     }
   ],
-  "last_updated": "2026-06-24T20:25:47.025415"
+  "last_updated": "2026-06-25T10:15:41.994723"
 }
