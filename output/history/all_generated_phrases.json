@@ -2819,7 +2819,37 @@
       "russian": "Находчивость течет, через практику.",
       "category": "Strength",
       "generated_at": "2026-06-29T17:36:45.008018"
+    },
+    {
+      "english": "Breathe deep, words arrive.",
+      "russian": "Дыши глубоко, слова придут.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-29T20:46:15.573365"
+    },
+    {
+      "english": "Listen well, speak soon.",
+      "russian": "Слушай хорошо, говори скоро.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-29T20:46:15.573375"
+    },
+    {
+      "english": "Focus here, progress flows.",
+      "russian": "Сосредоточься здесь, прогресс следует.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-29T20:46:15.573377"
+    },
+    {
+      "english": "Observe all, absorb it.",
+      "russian": "Наблюдай всё, впитай это.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-29T20:46:15.573378"
+    },
+    {
+      "english": "Speak a sound, clarity calls.",
+      "russian": "Произнеси звук, ясность зовет.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-29T20:46:15.573379"
     }
   ],
-  "last_updated": "2026-06-29T17:36:45.008019"
+  "last_updated": "2026-06-29T20:46:15.573381"
 }
