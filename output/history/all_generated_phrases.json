@@ -2849,7 +2849,37 @@
       "russian": "Произнеси звук, ясность зовет.",
       "category": "Mindfulness",
       "generated_at": "2026-06-29T20:46:15.573379"
+    },
+    {
+      "english": "Say it out loud.",
+      "russian": "Произнеси это вслух.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T10:31:55.817152"
+    },
+    {
+      "english": "Hear your voice.",
+      "russian": "Услышь свой голос.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T10:31:55.817161"
+    },
+    {
+      "english": "Connect sentences, win.",
+      "russian": "Связывай предложения, побеждай.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T10:31:55.817163"
+    },
+    {
+      "english": "Learn one new word, daily.",
+      "russian": "Учи одно новое слово, ежедневно.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T10:31:55.817164"
+    },
+    {
+      "english": "Think in English, fast.",
+      "russian": "Думай по-английски, быстро.",
+      "category": "Creativity",
+      "generated_at": "2026-06-30T10:31:55.817168"
     }
   ],
-  "last_updated": "2026-06-29T20:46:15.573381"
+  "last_updated": "2026-06-30T10:31:55.817170"
 }
