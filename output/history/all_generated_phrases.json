@@ -2909,7 +2909,37 @@
       "russian": "Тишина ждёт, тайны шепчут.",
       "category": "Purpose",
       "generated_at": "2026-06-30T13:03:44.442033"
+    },
+    {
+      "english": "Learn daily, grow wise.",
+      "russian": "Учись ежедневно, мудрей становишься.",
+      "category": "Motivation",
+      "generated_at": "2026-06-30T17:06:35.549120"
+    },
+    {
+      "english": "Speak clearly, be heard.",
+      "russian": "Говори ясно, будь услышан.",
+      "category": "Motivation",
+      "generated_at": "2026-06-30T17:06:35.549129"
+    },
+    {
+      "english": "New words, new doors.",
+      "russian": "Новые слова, новые двери.",
+      "category": "Motivation",
+      "generated_at": "2026-06-30T17:06:35.549131"
+    },
+    {
+      "english": "Practice now, benefit later.",
+      "russian": "Практикуйся сейчас, получишь пользу потом.",
+      "category": "Motivation",
+      "generated_at": "2026-06-30T17:06:35.549132"
+    },
+    {
+      "english": "Embrace mistakes, learn from.",
+      "russian": "Прими ошибки, учись у них.",
+      "category": "Motivation",
+      "generated_at": "2026-06-30T17:06:35.549133"
     }
   ],
-  "last_updated": "2026-06-30T13:03:44.442035"
+  "last_updated": "2026-06-30T17:06:35.549135"
 }
