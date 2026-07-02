@@ -3119,7 +3119,37 @@
       "russian": "Возьми мужество, делись открыто.",
       "category": "Balance",
       "generated_at": "2026-07-02T10:10:51.463984"
+    },
+    {
+      "english": "Speak truth, gently now.",
+      "russian": "Говорите правду, мягко сейчас.",
+      "category": "Courage",
+      "generated_at": "2026-07-02T12:53:42.556233"
+    },
+    {
+      "english": "Journey begins, inner strength.",
+      "russian": "Путешествие начинается, внутренняя сила.",
+      "category": "Courage",
+      "generated_at": "2026-07-02T12:53:42.556241"
+    },
+    {
+      "english": "Hold hope, brighter days.",
+      "russian": "Держи надежду, светлее дни.",
+      "category": "Courage",
+      "generated_at": "2026-07-02T12:53:42.556243"
+    },
+    {
+      "english": "First word, then more.",
+      "russian": "Первое слово, затем больше.",
+      "category": "Courage",
+      "generated_at": "2026-07-02T12:53:42.556244"
+    },
+    {
+      "english": "Quiet mind, clear thought.",
+      "russian": "Тихий ум, ясная мысль.",
+      "category": "Courage",
+      "generated_at": "2026-07-02T12:53:42.556245"
     }
   ],
-  "last_updated": "2026-07-02T10:10:51.463986"
+  "last_updated": "2026-07-02T12:53:42.556247"
 }
