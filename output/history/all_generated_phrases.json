@@ -3149,7 +3149,37 @@
       "russian": "Тихий ум, ясная мысль.",
       "category": "Courage",
       "generated_at": "2026-07-02T12:53:42.556245"
+    },
+    {
+      "english": "Speak often, grow fluent.",
+      "russian": "Говорите часто, становитесь бегло.",
+      "category": "Joy",
+      "generated_at": "2026-07-02T16:49:00.657311"
+    },
+    {
+      "english": "Listen carefully, understand.",
+      "russian": "Слушайте внимательно, понимайте.",
+      "category": "Joy",
+      "generated_at": "2026-07-02T16:49:00.657321"
+    },
+    {
+      "english": "Read widely, gain words.",
+      "russian": "Читайте много, приобретайте слова.",
+      "category": "Joy",
+      "generated_at": "2026-07-02T16:49:00.657323"
+    },
+    {
+      "english": "Write daily, build skill.",
+      "russian": "Пишите ежедневно, развивайте навык.",
+      "category": "Joy",
+      "generated_at": "2026-07-02T16:49:00.657324"
+    },
+    {
+      "english": "Explore freely, find joy.",
+      "russian": "Исследуйте свободно, находите радость.",
+      "category": "Joy",
+      "generated_at": "2026-07-02T16:49:00.657326"
     }
   ],
-  "last_updated": "2026-07-02T12:53:42.556247"
+  "last_updated": "2026-07-02T16:49:00.657327"
 }
